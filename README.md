@@ -25,17 +25,20 @@ Edit
 └── README.md                     # Project Documentation
 
 ## How to Run
-Clone the Repository
+### Clone the Repository
 
 git clone https://github.com/yourusername/loan-approval-prediction.git
 cd loan-approval-prediction
-Install Dependencies
+
+### Install Dependencies
 
 pip install pandas numpy matplotlib seaborn scikit-learn
-Open the Jupyter Notebook
+
+### Open the Jupyter Notebook
 
 jupyter notebook LoanApprovalPrediction.ipynb
-Run the cells to train the model and test predictions.
+
+### Run the cells to train the model and test predictions.
 
 ## Example Prediction
 The trained model outputs:
